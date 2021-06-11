@@ -1,5 +1,3 @@
 - 👋 Hi, I’m pavankumar
 - 👀 I’m interested in learning different automation tools.
-- 🌱 I’m currently learning cypress
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning cypress.
